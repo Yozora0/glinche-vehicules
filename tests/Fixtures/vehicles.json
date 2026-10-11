@@ -1,0 +1,106 @@
+[
+  {
+    "reference": "284365",
+    "title": "RENAULT AUSTRAL E-Tech full hybrid 200ch Techno",
+    "editDate": "2025-01-15T00:00:00+01:00",
+    "insertDate": "2025-01-14T00:00:00+01:00",
+    "availabilityDate": "2024-12-20T00:00:00+01:00",
+    "pictures": [
+      { "type": "IMAGE", "url": "https://api.glinche-automobiles.com/storage/vehicles/pictures/8481-2.jpg" },
+      { "type": "MAIN", "url": "https://api.glinche-automobiles.com/storage/vehicles/pictures/8481-1.jpg" }
+    ],
+    "vehicle": {
+      "genre": "VP",
+      "type": "0KM",
+      "vin": "VF1RHN01372960594",
+      "manufacturer": "RENAULT",
+      "model": "Austral",
+      "finish": "E-Tech full hybrid 200ch Techno",
+      "energy": "EH",
+      "mileage": 50,
+      "year": 2024,
+      "gearbox": "AUT",
+      "power": 200,
+      "powerKw": "147",
+      "fiscalPower": 9,
+      "cylinder": 1199,
+      "color": "Blanc Glacier",
+      "mainColor": "WHITE",
+      "interior": "TEPT",
+      "body": "SUV",
+      "warranty": "TWENTY_FOUR_MONTHS_UNLIMITED",
+      "isMileageGuaranteed": true,
+      "isFirstHand": true,
+      "consumption": 4.6,
+      "emissionWLTP": 105,
+      "classification": 1,
+      "doors": 5,
+      "seats": 5,
+      "length": 4510,
+      "bootVolume": 430,
+      "vin": "VF1RHN01372960594",
+      "registration": "GX-295-DK",
+      "eAutonomyWltp": "",
+      "equipments": [
+        { "name": "Régulateur adaptatif", "category": "SECURITY", "isMissing": false },
+        { "name": "Pack City", "category": "CONFORT", "details": ["Caméra de recul", "Radar avant"] },
+        { "name": "Toit ouvrant", "category": "INOUT", "isMissing": true },
+        { "name": "Tapis de sol" }
+      ],
+      "options": [
+        { "name": "Peinture métallisée", "category": "INOUT", "price": 680 },
+        { "name": "Roue de secours", "price": 0 }
+      ],
+      "prices": { "price": "33500", "merchantPrice": "32500", "reclaimableVAT": true, "taxCode": "VAT", "catalogPrice": "42950" }
+    }
+  },
+  {
+    "reference": "284366",
+    "title": "PEUGEOT 208 1.2 PureTech 100 Allure",
+    "editDate": "2025-01-15T00:00:00+01:00",
+    "insertDate": "2025-01-14T00:00:00+01:00",
+    "availabilityDate": "2024-12-20T00:00:00+01:00",
+    "pictures": [
+      { "type": "IMAGE", "url": "https://api.glinche-automobiles.com/storage/vehicles/pictures/9000-1.jpg" }
+    ],
+    "vehicle": {
+      "type": "VO",
+      "manufacturer": "Peugeot",
+      "model": "208",
+      "finish": "1.2 PureTech 100 Allure",
+      "energy": "ES",
+      "mileage": 23500,
+      "registrationDate": "2022-03-10T00:00:00+01:00",
+      "gearbox": "MAN",
+      "prices": { "merchantPrice": "17990", "reclaimableVAT": false, "taxCode": "VAT_MARGIN", "catalogPrice": "22000" }
+    }
+  },
+  {
+    "reference": "284367",
+    "title": "Renault Clio TCe 90",
+    "editDate": "2025-01-15T00:00:00+01:00",
+    "insertDate": "2025-01-14T00:00:00+01:00",
+    "availabilityDate": "2024-12-20T00:00:00+01:00",
+    "pictures": [],
+    "vehicle": {
+      "type": "VO",
+      "manufacturer": "renault",
+      "model": "Clio",
+      "finish": "TCe 90 Evolution",
+      "energy": "ES",
+      "mileage": 41000,
+      "year": 2021,
+      "prices": { "price": "13490", "merchantPrice": "12990", "reclaimableVAT": false, "taxCode": "VAT_MARGIN", "catalogPrice": "19000" }
+    }
+  },
+  {
+    "reference": "284368",
+    "title": "Annonce retirée",
+    "editDate": "2025-01-15T00:00:00+01:00",
+    "insertDate": "2025-01-14T00:00:00+01:00",
+    "availabilityDate": "2024-12-20T00:00:00+01:00",
+    "deleteDate": "2025-01-26T00:00:00+01:00",
+    "pictures": [],
+    "vehicle": { "manufacturer": "Citroën", "model": "C3", "prices": { "price": "9000" } }
+  }
+]
